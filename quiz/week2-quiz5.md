@@ -81,11 +81,11 @@ Which of the following vectorizations correctly compute z? Check all that apply.
 
 ### Answer
 
-* **z = v' * w;**
+* **z = v' * w**;
  
 * z = v * w;
  
-* **z = sum (v .* w);** 
+*  <b>z = sum (v .* w)</b>;  
  
 * z = v .* w;
 
